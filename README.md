@@ -599,7 +599,6 @@ npm install
    pm2 save
    pm2 startup
    ```
-
 ---
 
 ## 📝 License
