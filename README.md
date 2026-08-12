@@ -606,7 +606,6 @@ npm install
 **MIT License** — You are free to use, modify, distribute, and sell this software for personal and commercial purposes, with no restrictions.
 
 ---
-
 <div align="center">
 
 Built with ❤️ using **React**, **Node.js**, **Express**, and **MongoDB**
